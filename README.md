@@ -1,4 +1,4 @@
-![Poster](visuals/poster.png)
+![Poster](military.jpg)
 # Global Military Firepower 2025: An End-to-End Project from Web Scraping to Dashboard Building
 
 ## Project Overview
@@ -55,16 +55,16 @@ The objective of this project is to demonstrate an end-to-end data science workf
 ## Dashboard Snapshots
 Here are some previews of the Tableau dashboards created in this project:
 ### Quick Stats
-![Quick Stats Dashboard](images/quick_stats.png)
+![Quick Stats Dashboard](dashboarding/visuals/dashboard_1.png)
 
 ### Nations Overview
-![Nations Overview](images/nations_overview.png)
+![Nations Overview](dashboarding/visuals/dashboard_2.png)
 
 ### Compare Powers
-![Compare Powers](images/compare_powers.png)
+![Compare Powers](dashboarding/visuals/dashboard_3.png)
 
 ### Coalition Builder
-![Coalition Builder](images/coalition_builder.png)
+![Coalition Builder](dashboarding/visuals/dashboard_4.png)
 
 ## Demo Video
 [![Watch the video](https://img.youtube.com/vi/viOMhQeQaLk/0.jpg)](https://www.youtube.com/watch?v=viOMhQeQaLk)
