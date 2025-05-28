@@ -16,12 +16,10 @@ The objective of this project is to demonstrate an end-to-end data science workf
 1. **Web Scraping**
    - Collected data from multiple pages (country profiles, overall ranking tables, military equipments, etc.)
    - Used `requests` and `BeautifulSoup` to extract structured data.
-
 2. **Data Cleaning**
    - Cleaned missing or inconsistent values using python custom functions alongside web scraping but the one column 'region' was created manually by leveraging the power of AI because there were not enough data of 'region'(continent) for each of the countries in that website.
    - Standardized column names and data formats using pandas
    - Saved the final dataset as .csv and then manually converted into .xlsx for easy import into Tableau
-
 3. **Data Visualization (Dashboarding using Tableau Public)**
    - Built an interactive Tableau workbook with 4 unique dashboards(Quick Stats, Nation Overview, Compare Powers & Coalition Builder)
    - Linked views for smooth interactivity and user experience
@@ -32,7 +30,6 @@ The objective of this project is to demonstrate an end-to-end data science workf
 ### 1. Quick Stats
 - Showcases the top 5 countries in key military metrics such as defense budget, purchasing power parity, global rank, and military assets(naval/land/air).
 - Allows quick comparison using color-coded bars, donut chart, circles, maps and sorted visuals.
-
 ### 2. Nations Overview
 - Select any country to view its detailed stats including:
   - Military Ranking
@@ -42,11 +39,9 @@ The objective of this project is to demonstrate an end-to-end data science workf
   - Total Personnel
   - Land, Air, and Naval assets
   - Population and service availability
-
 ### 3. Compare Powers
 - Perform side-by-side comparisons of two selected countries.
 - Compare strengths in manpower, different types of military assets(air/land/naval), military personnel(active/reserve/paramilitary) and total land areas etc.
-
 ### 4. Coalition Builder
 - Create two coalitions (up to 5 countries each).
 - Analyze the combined power of each coalition.
