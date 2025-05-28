@@ -98,7 +98,7 @@ Here are some previews of the Tableau dashboards created in this project:
 This project is for educational purposes only. The scraped data complies with the site's terms of use at the time of access.
 
 ## License
-This project is licensed under [CC BY-NC 4.0](LICENSE).
+This project is licensed under [CC BY-NC 4.0](LICENSE)
 
 ## Acknowledgements
 Special thanks to [Global Firepower](https://www.globalfirepower.com/) for providing publicly accessible military data.
