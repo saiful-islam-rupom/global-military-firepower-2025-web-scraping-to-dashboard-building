@@ -63,6 +63,7 @@ Here are some previews of the Tableau dashboards created in this project:
 ![Coalition Builder](dashboarding/visuals/dashboard_4.png)
 
 ## Demo Video
+(Click to play)
 [![Watch the video](https://img.youtube.com/vi/viOMhQeQaLk/0.jpg)](https://www.youtube.com/watch?v=viOMhQeQaLk)
 
 ## Tools and Technologies
