@@ -90,9 +90,10 @@ Here are some previews of the Tableau dashboards created in this project:
 3. Open the .twbx file using Tableau Public Desktop, or view it online through the provided Tableau Public link.
 
 ## Future Enhancements
-- Automate daily/weekly updates for real-time dashboard refresh
-- Add ranking trends over time using historical data
-- Integrate additional geopolitical datasets for richer insights
+- Automate routine updates using scheduling (e.g., cron, Airflow)
+- Integrate historical data for trend analysis
+- Include geospatial mapping for defense installations
+- Extend KPIs to include GDP-to-defense ratio and alliance affiliations
 
 ## Disclaimer
 This project is for educational purposes only. The scraped data complies with the site's terms of use at the time of access.
